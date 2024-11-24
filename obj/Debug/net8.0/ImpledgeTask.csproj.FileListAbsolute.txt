@@ -1,0 +1,14 @@
+D:\ImpledgeTask\bin\Debug\net8.0\ImpledgeTask.exe
+D:\ImpledgeTask\bin\Debug\net8.0\ImpledgeTask.deps.json
+D:\ImpledgeTask\bin\Debug\net8.0\ImpledgeTask.runtimeconfig.json
+D:\ImpledgeTask\bin\Debug\net8.0\ImpledgeTask.dll
+D:\ImpledgeTask\bin\Debug\net8.0\ImpledgeTask.pdb
+D:\ImpledgeTask\obj\Debug\net8.0\ImpledgeTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\ImpledgeTask\obj\Debug\net8.0\ImpledgeTask.AssemblyInfoInputs.cache
+D:\ImpledgeTask\obj\Debug\net8.0\ImpledgeTask.AssemblyInfo.cs
+D:\ImpledgeTask\obj\Debug\net8.0\ImpledgeTask.csproj.CoreCompileInputs.cache
+D:\ImpledgeTask\obj\Debug\net8.0\ImpledgeTask.dll
+D:\ImpledgeTask\obj\Debug\net8.0\refint\ImpledgeTask.dll
+D:\ImpledgeTask\obj\Debug\net8.0\ImpledgeTask.pdb
+D:\ImpledgeTask\obj\Debug\net8.0\ImpledgeTask.genruntimeconfig.cache
+D:\ImpledgeTask\obj\Debug\net8.0\ref\ImpledgeTask.dll
